@@ -11,7 +11,7 @@ The installer will create a directory location where you want to host the file, 
 
 The zip file will contain a json file of simple information example included in the project.
 
-#JSON file cb-serverbitz.json 
+# JSON file cb-serverbitz.json 
 This file will contain the data from the collectors, there is two types of data:
 
 Name:Value or Name:Array
