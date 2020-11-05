@@ -4,8 +4,8 @@ import json
 from os import system, name
 
 if __name__ == '__main__':
-    accesslog = 'D:\\Cases\\SSEENrollment\\W3SVC2\\u_ex170929_x.log'
-    fail2banlog = 'D:\\Downloads\\fail2ban.log'
+    accesslog = '##AddLocation##'
+    fail2banlog = '##AddLocation##'
 
     patternSourceIps = re.compile(r"\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b")
     
